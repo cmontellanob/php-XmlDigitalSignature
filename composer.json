@@ -1,6 +1,6 @@
 {
-  "name": "marcelxyz/php-xml-digital-signature",
-  "description": "A PHP library for signing XML documents using digital signatures",
+  "name": "cmontellanob/php-xml-digital-signature",
+  "description": "Atualizacion y modificaciona la libreria marcelxyz/php-xml-digital-signature para firmado de documentox XML usando firmas digitales",
   "license": "MIT",
   "keywords": [
     "xml",
@@ -10,7 +10,7 @@
     "xml-sig",
     "pkcs"
   ],
-  "homepage": "https://github.com/marcelxyz/php-XmlDigitalSignature",
+  "homepage": "https://github.com/cmontellanob/php-XmlDigitalSignature",
   "require": {
     "php": ">= 5.3"
   },
@@ -19,8 +19,8 @@
   },
   "authors": [
     {
-      "name": "Marcel Tyszkiewicz",
-      "email": "marcel.tyszkiewicz@gmail.com"
+      "name": "Carlos Montellano",
+      "email": "montellano.carlos@usfx.bo"
     }
   ],
   "suggest": {
