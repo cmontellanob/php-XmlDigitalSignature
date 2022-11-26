@@ -9,9 +9,9 @@ namespace XmlDsig;
  * document is properly canonicalized and signed using one of the selected hashing (digest)
  * methods (also a class const).
  * 
- * @author		Marcel Tyszkiewicz
+ * @author		Carlos Montellano
  * @license		MIT http://opensource.org/licenses/MIT
- * @link		https://github.com/marcelxyz/php-XmlDigitalSignature
+ * @link		https://github.com/cmontellanob/php-XmlDigitalSignature
  * @copyright	2014
  */
 class XmlDigitalSignature
