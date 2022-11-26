@@ -2,9 +2,9 @@
 
 namespace XmlDsig\Test;
 
-use \PHPUnit\Framework\Error\Warning;
-use \PHPUnit\Framework\TestCase;
-use \PHPUnit\Util\Xml;
+use PHPUnit\Framework\Error\Warning;
+use PHPUnit\Framework\TestCase;
+use PHPUnit\Util\Xml;
 use XmlDsig\XmlDigitalSignature;
 
 class XmlDigitalSignatureTest extends TestCase {

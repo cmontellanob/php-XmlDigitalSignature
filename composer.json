@@ -12,10 +12,10 @@
   ],
   "homepage": "https://github.com/cmontellanob/php-XmlDigitalSignature",
   "require": {
-    "php": ">= 5.3"
+    "php": ">= 8.01"
   },
   "require-dev": {
-    "phpunit/phpunit": "^6.1"
+    "phpunit/phpunit": "^9.5"
   },
   "authors": [
     {

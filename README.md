@@ -8,7 +8,7 @@ Should this class generate documents that do not validate (as there are many dif
 
 Using composer:
 
-    php composer.phar require "marcelxyz/php-xml-digital-signature"
+    php composer.phar require "cmontellanob/php-xml-digital-signature"
 
 Alternatively require the `src/XmlDigitalSignature.php` file in your project.
 
